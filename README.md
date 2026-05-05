@@ -150,7 +150,7 @@
 ### Screenshots
 
 **Home Screen - Light Mode**
-![Home Screen](docs/screenshots/home-light.png)
+![Home Screen](docs/screenshots/home-screen-bangla.png)
 
 **Calculator Interface - Dark Mode**
 ![Calculator](docs/screenshots/calculator-dark.png)
@@ -352,9 +352,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Your Name**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-homayun-kabir-00433017a)
+- GitHub: [@your-username](https://github.com/homayungit)
+- Email: homayun18bd@gmail.com
 
 ---
 
@@ -397,7 +397,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Having issues? Need help?
 
-1. Check the [Issues](https://github.com/your-username/GPC/issues) page
+1. Check the [Issues](https://github.com/homayungit/GPC/issues) page
 2. Open a new issue with detailed description
 3. Join our community discussions
 4. Contact via LinkedIn
